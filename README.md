@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Barış 👋
 
-<!--
-**FindSofwarer/FindSofwarer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Statistics and Computer Science student  
+💡 Interested in data science, artificial intelligence, and software development  
+🚀 Open to open source contributions and internship opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🕹️ Project
+- [knight](https://github.com/FindSofwarer/knight): Game development library
+
+## 📫 Contact
+- Email: brag1zeyn@gmail.com
+
+---
+
+*Thank you for visiting my profile!*
+
+---
+
+# Merhaba, ben Barış 👋
+
+🎓 İstatistik ve Bilgisayar Bilimleri öğrencisiyim  
+💡 Veri bilimi, yapay zeka ve yazılım geliştirmeye ilgi duyuyorum  
+🚀 Açık kaynak katkılarına ve iş/staj fırsatlarına açığım
+
+---
+
+## 🕹️ Projem
+- [knight](https://github.com/FindSofwarer/knight): Oyun geliştirme kütüphanesi
+
+## 📫 İletişim
+- Email: brag1zeyn@gmail.com
+
+---
+
+*Profilimi ziyaret ettiğiniz için teşekkürler!*
