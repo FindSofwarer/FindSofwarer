@@ -1,4 +1,4 @@
-<!-- Banner eklemek istersen aşağıdaki satırı düzenle -->
+<!-- Banner -->
 <!-- ![Banner](https://github.com/FindSofwarer/FindSofwarer/blob/main/banner.png) -->
 
 <p align="center">
@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Open%20Source-active?style=for-the-badge&logo=github&logoColor=white" height="28"/>
 </p>
 
-<h1 align="center">Hi, I'm <span style="color:#3498db;">Barış</span> 👋</h1>
+<h1 align="center">Hi, I'm <span style="color:#007aff;">Barış</span> 👋</h1>
 <p align="center"><b>Statistics & Computer Science Student</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Science-FFD700?style=flat-square&logo=dataiku&logoColor=white" height="20"/>
@@ -17,7 +17,8 @@
 
 ---
 
-### 🚀 Highlight Project
+## 🚀 Highlight Project
+
 <p align="center">
   <a href="https://github.com/FindSofwarer/knight" target="_blank">
     <img src="https://img.shields.io/badge/knight%20game%20library-1abc9c?style=for-the-badge&logo=github" alt="Knight Project" height="28"/>
@@ -31,26 +32,36 @@
 
 ---
 
-### 🛠️ Skills
+## 🛠️ Skills
+
 ```text
 Python · R · JavaScript · C# · React · Django · Unity · Git · VSCode · Docker
 ```
 
 ---
 
-### 📫 Contact
-- Email: **brag1zeyn@gmail.com**
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:brag1zeyn@gmail.com"><img src="https://img.shields.io/badge/Email-007aff?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
+  <a href="https://github.com/FindSofwarer" target="_blank"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
+  <a href="https://linkedin.com/in/baristekinn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-007aff?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
+</p>
 
 ---
 
 <h2 align="center">🇹🇷 Türkçe</h2>
 <p align="center"><b>Merhaba, ben Barış! 👋</b></p>
-<p align="center">İstatistik ve Bilgisayar Bilimleri öğrencisiyim. Veri bilimi, yapay zeka ve yazılım geliştirme ile ilgileniyorum. Sadece <a href="https://github.com/FindSofwarer/knight" target="_blank"><b>knight</b></a> projemi öne çıkarıyorum.<br>
-Açık kaynak katkılarına ve staj fırsatlarına açığım.</p>
+<p align="center">
+  İstatistik ve Bilgisayar Bilimleri öğrencisiyim. Veri bilimi, yapay zeka ve yazılım geliştirme ile ilgileniyorum.
+  Sadece <a href="https://github.com/FindSofwarer/knight" target="_blank"><b>knight</b></a> projemi öne çıkarıyorum.<br>
+  Açık kaynak katkılarına ve staj fırsatlarına açığım.
+</p>
 
 ---
 
-#### 🕹️ Projem
+## 🕹️ Projem
+
 <p align="center">
   <a href="https://github.com/FindSofwarer/knight" target="_blank">
     <img src="https://img.shields.io/badge/knight%20oyun%20kutuphanesi-1abc9c?style=for-the-badge&logo=github" alt="Knight Projesi" height="28"/>
@@ -59,8 +70,13 @@ Açık kaynak katkılarına ve staj fırsatlarına açığım.</p>
 
 ---
 
-#### 📫 İletişim
-- E-posta: **brag1zeyn@gmail.com**
+## 📫 İletişim
+
+<p align="center">
+  <a href="mailto:brag1zeyn@gmail.com"><img src="https://img.shields.io/badge/Eposta-007aff?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
+  <a href="https://github.com/FindSofwarer" target="_blank"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
+  <a href="https://linkedin.com/in/baristekinn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-007aff?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
+</p>
 
 ---
 
