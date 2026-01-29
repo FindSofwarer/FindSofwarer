@@ -26,7 +26,7 @@ def update_readme():
 | **🧠 AI Engineering** | {calculate_stars(data['stats']['AI_Engineering'])} | |
 | **🔬 Data Science** | {calculate_stars(data['stats']['Data_Science'])} | |
 | **🏗️ Data Engineering** | {calculate_stars(data['stats']['Data_Engineering'])} | |
-| **✨ Vibe Coding** | ⭐⭐⭐⭐⭐ (Max) | *Flow State Master* |
+| **✨ Vibe Coding** | {calculate_stars(data['stats']['Vibe_Coding'])} | |
 """
 
     with open(readme_path, 'r', encoding='utf-8') as f:
