@@ -15,11 +15,3 @@ I'm a Statistics and Computer Science student at Sivas Cumhuriyet University, pa
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FindSofwarer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## STATS
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FindSofwarer&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FindSofwarer&layout=compact&theme=radical" />
-</p>
