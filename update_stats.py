@@ -10,7 +10,6 @@ def calculate_stars(project_count):
     else: return "⭐⭐⭐⭐⭐ (Level 5 - Master)"
 
 def update_readme():
-    # Dosya yollarını garantiye alalım
     base_dir = os.path.dirname(os.path.abspath(__file__))
     data_path = os.path.join(base_dir, 'data.json')
     readme_path = os.path.join(base_dir, 'README.md')
@@ -18,6 +17,8 @@ def update_readme():
     with open(data_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
+    # DİKKAT: Buradaki tablo bitişik yazıldı ki boşluk hatası olmasın.
+    # Başında ve sonunda \n (yeni satır) var.
     stats_markdown = f"""
 | Skill Class | Stars | Rank |
 | :--- | :--- | :--- |
@@ -34,23 +35,19 @@ def update_readme():
     start_marker = ""
     end_marker = ""
     
-    # İşaretçilerin ham konumunu bul
     s_loc = readme_content.find(start_marker)
     e_loc = readme_content.find(end_marker)
 
     if s_loc != -1 and e_loc != -1:
-        # Başlangıç okunun hemen sonrasını hesapla
         insert_point = s_loc + len(start_marker)
-        
-        # Yeni içeriği araya yerleştir (Eski içerik + Tablo + Kalan Kısım)
+        # Tabloyu araya temizce yerleştiriyoruz
         new_content = readme_content[:insert_point] + "\n" + stats_markdown + "\n" + readme_content[e_loc:]
         
         with open(readme_path, 'w', encoding='utf-8') as f:
             f.write(new_content)
-        print("✅ README başarıyla güncellendi! Tablo doğru yere yerleştirildi.")
+        print("✅ README tablo formatı düzeltilerek güncellendi!")
     else:
-        print("❌ HATA: İşaretçiler (STATS_START / STATS_END) README dosyasında bulunamadı!")
-        print("Lütfen README.md dosyanızda bu etiketlerin olduğundan emin olun.")
+        print("❌ HATA: İşaretçiler bulunamadı.")
 
 if __name__ == "__main__":
     update_readme()
